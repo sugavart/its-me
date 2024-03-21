@@ -1,0 +1,61 @@
+body{
+    background: #FFF1D6;
+    font-family: 'Lucida Grande', 'Lucida Uicode,' Verdana,  sans-serif;
+    line-height: 1.6;
+}
+
+.container{
+	margin: 0 auto;
+	width: 960px;
+}
+<h1 a{
+	color:#6959CD;
+	text-decoration: none;
+}
+<h1 a:Hover {
+	background-color: #6959CD;
+color: #FFFFFF;
+}
+ .place{
+    float: left;
+    width: 700px;
+ }
+.place{
+	background-color: #F5F5F5;
+    border-color:#CCCCCC #999999 #999999 #CCCCCC;
+    border: 1px solid #CCCCCC;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.place h2 {
+	border-bottom: 1px dashed #6959CD;
+	margin: 0;
+}
+
+.place img{
+	border: 1px solid #6959CD;
+	float :left;
+	margin: 10px 10px 0 0;
+	padding: 6px;
+	width: 140px;
+}
+
+.footer{
+	font-size: 12px;
+	text-align: center;
+}
+ 
+ .sidenote{
+ 	background-color:  #F9C8F8; 
+ 	border: 1px solid #C9BC8F;
+ 	float: right;
+ 	padding: 15px;
+ 	width: 260px;
+}
+ .sidenote h3{
+ 	font-size: 14px;
+ 	margin-top: 0;
+ }
+
+
